@@ -2,7 +2,7 @@
 
 2024 Fundamentals of Machine Learning Assignment Report.
 
-**Candidate Number: 233557**
+**Candidate Number: xxxxxx**
 
 Regression, which are sensitive to the scale of input
 
@@ -40,7 +40,7 @@ The dataset was split into training and validation sets to ensure that both sets
 
 GridSearchCV was employed to perform exhaustive grid searches over specified parameter values for each model. This approach was applied to SVM, Random Forest, Logistic Regression, and Gradient Boosting classifiers.
 
-2024 Fundamentals of Machine Learning Assignment Report. **Candidate Number: 233557**
+2024 Fundamentals of Machine Learning Assignment Report. **Candidate Number: xxxxxx**
 
 GridSearchCV was set up with 5-fold cross-validation to ensure robust evaluation of model performance. The SVM emerged as the top performer, with optimal hyperparameters identified as C=1 and rbf kernel \[2\]. The use of cross-validation helped in selecting the best model and hyperparameters by providing a reliable estimate of model performance on unseen data.
 
@@ -78,7 +78,7 @@ Despite the strong performance of the SVM model, there are potential areas for i
 
 2024 Fundamentals of Machine Learning Assignment Report.
 
-**Candidate Number: 233557**
+**Candidate Number: xxxxxx**
 
 4\. References
 
